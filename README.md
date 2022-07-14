@@ -7,7 +7,6 @@ A terraform built application for use in Terraform Education program
   - Security group
   - Internet gateway
   - Route table
-  - EIP
   - EC2 instance
   - Key pair
 
