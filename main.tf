@@ -20,7 +20,7 @@ provider "aws" {
   default_tags {
     tags = {
       #Project = "Coffee-Mug-Cake"
-      Project = "tom defualt tag"      
+      Project = "tom defualt tag2"      
     }
   }
 }
